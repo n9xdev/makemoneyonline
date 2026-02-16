@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#0F1624" />
+  
+  <!-- Grid lines for depth -->
+  <g stroke="#1E2747" stroke-width="1" opacity="0.3">
+    <line x1="0" y1="100" x2="800" y2="100" />
+    <line x1="0" y1="200" x2="800" y2="200" />
+    <line x1="0" y1="300" x2="800" y2="300" />
+    <line x1="0" y1="400" x2="800" y2="400" />
+    <line x1="0" y1="500" x2="800" y2="500" />
+    <line x1="100" y1="0" x2="100" y2="600" />
+    <line x1="200" y1="0" x2="200" y2="600" />
+    <line x1="300" y1="0" x2="300" y2="600" />
+    <line x1="400" y1="0" x2="400" y2="600" />
+    <line x1="500" y1="0" x2="500" y2="600" />
+    <line x1="600" y1="0" x2="600" y2="600" />
+    <line x1="700" y1="0" x2="700" y2="600" />
+  </g>
+  
+  <!-- Raydium Logo -->
+  <g transform="translate(360, 120)">
+    <circle cx="40" cy="40" r="70" fill="#1447A6" opacity="0.3" />
+    <circle cx="40" cy="40" r="50" fill="#0A99FD" opacity="0.5" />
+    <path d="M40,10 L70,40 L40,70 L10,40 Z" fill="#FFFFFF" />
+    <circle cx="40" cy="40" r="10" fill="#FFFFFF" />
+  </g>
+  
+  <!-- Main Bundler Container -->
+  <rect x="200" y="200" width="400" height="220" rx="15" ry="15" fill="#1A2547" stroke="#0A99FD" stroke-width="2" />
+  
+  <!-- Input Transactions -->
+  <g transform="translate(100, 240)">
+    <rect x="0" y="0" width="70" height="25" rx="5" ry="5" fill="#242F5A" stroke="#3D5AF1" stroke-width="1" />
+    <rect x="0" y="35" width="70" height="25" rx="5" ry="5" fill="#242F5A" stroke="#3D5AF1" stroke-width="1" />
+    <rect x="0" y="70" width="70" height="25" rx="5" ry="5" fill="#242F5A" stroke="#3D5AF1" stroke-width="1" />
+    <rect x="0" y="105" width="70" height="25" rx="5" ry="5" fill="#242F5A" stroke="#3D5AF1" stroke-width="1" />
+    
+    <!-- Arrow pointing to bundler -->
+    <path d="M80,65 L120,65" stroke="#0A99FD" stroke-width="2" fill="none" />
+    <polygon points="115,60 125,65 115,70" fill="#0A99FD" />
+  </g>
+  
+  <!-- Bundler Processing -->
+  <g transform="translate(250, 250)">
+    <!-- Bundler Engine -->
+    <rect x="0" y="0" width="300" height="120" rx="10" ry="10" fill="#1E2D59" stroke="#0A99FD" stroke-dasharray="5,3" stroke-width="2" />
+    
+    <!-- Gears -->
+    <g transform="translate(30, 30)">
+      <circle cx="0" cy="0" r="20" fill="none" stroke="#0A99FD" stroke-width="2" />
+      <circle cx="0" cy="0" r="10" fill="#0A99FD" opacity="0.5" />
+      <line x1="-15" y1="-15" x2="15" y2="15" stroke="#0A99FD" stroke-width="2" />
+      <line x1="-15" y1="15" x2="15" y2="-15" stroke="#0A99FD" stroke-width="2" />
+    </g>
+    
+    <g transform="translate(100, 60)">
+      <circle cx="0" cy="0" r="25" fill="none" stroke="#0A99FD" stroke-width="2" />
+      <circle cx="0" cy="0" r="12" fill="#0A99FD" opacity="0.5" />
+      <line x1="-18" y1="-18" x2="18" y2="18" stroke="#0A99FD" stroke-width="2" />
+      <line x1="-18" y1="18" x2="18" y2="-18" stroke="#0A99FD" stroke-width="2" />
+    </g>
+    
+    <!-- Circuit Pattern -->
+    <path d="M150,20 L200,20 L200,40 L230,40 L230,70 L180,70 L180,90 L250,90" 
+          fill="none" stroke="#0A99FD" stroke-width="2" />
+          
+    <path d="M150,40 L170,40 L170,100 L230,100" 
+          fill="none" stroke="#3D5AF1" stroke-width="2" />
+  </g>
+  
+  <!-- Output Bundled Transaction -->
+  <g transform="translate(630, 280)">
+    <rect x="0" y="0" width="90" height="60" rx="8" ry="8" fill="#173366" stroke="#0A99FD" stroke-width="2" />
+    
+    <!-- Arrow pointing to output -->
+    <path d="M-30,30 L-10,30" stroke="#0A99FD" stroke-width="2" fill="none" />
+    <polygon points="-15,25 -5,30 -15,35" fill="#0A99FD" />
+    
+    <!-- Internal Stack -->
+    <rect x="15" y="15" width="60" height="10" rx="2" ry="2" fill="#0A99FD" opacity="0.7" />
+    <rect x="15" y="30" width="60" height="10" rx="2" ry="2" fill="#0A99FD" opacity="0.7" />
+    <rect x="15" y="45" width="60" height="10" rx="2" ry="2" fill="#0A99FD" opacity="0.7" />
+  </g>
+  
+  <!-- Solana Icons -->
+  <g transform="translate(350, 450)">
+    <circle cx="0" cy="0" r="15" fill="#14F195" opacity="0.7" />
+    <circle cx="50" cy="0" r="15" fill="#14F195" opacity="0.7" />
+    <circle cx="100" cy="0" r="15" fill="#14F195" opacity="0.7" />
+    
+    <!-- Connections to Bundler -->
+    <path d="M0,-15 L0,-50" stroke="#14F195" stroke-width="1.5" stroke-dasharray="3,3" />
+    <path d="M50,-15 L50,-50" stroke="#14F195" stroke-width="1.5" stroke-dasharray="3,3" />
+    <path d="M100,-15 L100,-50" stroke="#14F195" stroke-width="1.5" stroke-dasharray="3,3" />
+  </g>
+  
+  <!-- Labels -->
+  <g font-family="Arial, sans-serif" fill="#FFFFFF">
+    <text x="400" y="70" font-size="28" text-anchor="middle" font-weight="bold">RAYDIUM BUNDLER</text>
+    <text x="135" y="230" font-size="14" text-anchor="middle">Input Txs</text>
+    <text x="400" y="235" font-size="16" text-anchor="middle" font-weight="bold">Bundle Processing Engine</text>
+    <text x="675" y="270" font-size="14" text-anchor="middle">Bundled</text>
+    <text x="675" y="290" font-size="14" text-anchor="middle">Transaction</text>
+    <text x="400" y="490" font-size="16" text-anchor="middle">Solana Blockchain</text>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <g>
+    <!-- Particles -->
+    <circle cx="150" cy="150" r="3" fill="#0A99FD" opacity="0.8" />
+    <circle cx="650" cy="200" r="2" fill="#0A99FD" opacity="0.8" />
+    <circle cx="700" cy="350" r="4" fill="#0A99FD" opacity="0.8" />
+    <circle cx="200" cy="500" r="3" fill="#0A99FD" opacity="0.8" />
+    <circle cx="350" cy="550" r="2" fill="#0A99FD" opacity="0.8" />
+    <circle cx="500" cy="100" r="3" fill="#0A99FD" opacity="0.8" />
+    <circle cx="100" cy="400" r="2" fill="#0A99FD" opacity="0.8" />
+    
+    <!-- Orbital Line -->
+    <ellipse cx="400" cy="300" rx="350" ry="200" fill="none" stroke="#0A99FD" stroke-width="1" opacity="0.2" />
+  </g>
+</svg>
