@@ -40,7 +40,6 @@ export default function Header() {
             <a href="#hero" className={styles.navLink} onClick={(e) => handleNavClick(e, '#hero')}>Home</a>
             <a href="#projects" className={styles.navLink} onClick={(e) => handleNavClick(e, '#projects')}>Projects</a>
             <a href="#reviews" className={styles.navLink} onClick={(e) => handleNavClick(e, '#reviews')}>Testimonials</a>
-            <a href="#contact" className={styles.navLink} onClick={(e) => handleNavClick(e, '#contact')}>Contact</a>
           </nav>
           
           <button 
@@ -66,7 +65,6 @@ export default function Header() {
           <a href="#hero" className={styles.mobileNavLink} onClick={(e) => handleNavClick(e, '#hero')}>Home</a>
           <a href="#reviews" className={styles.mobileNavLink} onClick={(e) => handleNavClick(e, '#reviews')}>Reviews</a>
           <a href="#projects" className={styles.mobileNavLink} onClick={(e) => handleNavClick(e, '#projects')}>Projects</a>
-          <a href="#contact" className={styles.mobileNavLink} onClick={(e) => handleNavClick(e, '#contact')}>Contact</a>
         </nav>
       </div>
     </>
