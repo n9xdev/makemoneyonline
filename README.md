@@ -9,7 +9,7 @@
 <p> 
     <a href="mailto:misssilverbeauty0927@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://x.com/intent/follow?screen_name=soulcrancerdev" target="_blank"><img alt="Twitter"
+    <a href="https://x.com/intent/follow?screen_name=xxniiinxx" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discord.com/users/1167076625582669927" target="_blank">
         <img alt="Discord @soulcrancerdev"
@@ -21,7 +21,7 @@
         src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <a href="https://medium.com/@soulcrancerdev" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@soulcrancerdev" target="_blank"><img alt="YouTube"
+    <a href="https://www.youtube.com/@xniiinx" target="_blank"><img alt="YouTube"
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <!-- <a href="tel:+16085717937"><img alt="Phone"
         src="https://img.shields.io/badge/Phone-+1%20(608)%20571-7937-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
