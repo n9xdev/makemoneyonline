@@ -176,7 +176,8 @@ export default function Hero() {
         <h1 className={styles.heroTitle}>GenAI DeFi Engineering</h1>
         <h2 className={styles.heroSubtitle}>The sky has no limits. Why limit yourself</h2>
         <p className={styles.heroDescription}>
-        Rust • Python • Solidity wizard building AI agents, prediction markets & autonomous traders on Solana • EVM • BTC
+        Building Polymarket trading bots  | Ex-@RuneGuardians | OSS @AgentiPy | Casino Game Architect | Rust • Python • Smart Contracts | #BTC • #Solana • #Web3
+
 
         </p>
         
