@@ -12,14 +12,14 @@
     <a href="https://x.com/intent/follow?screen_name=xxniiinxx" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://discord.com/users/1167076625582669927" target="_blank">
-        <img alt="Discord @soulcrancerdev"
-             src="https://img.shields.io/badge/Discord-%40soulcrancerdev-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+        <img alt="Discord @xxninex"
+             src="https://img.shields.io/badge/Discord-%40xxninex-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="https://t.me/soulcrancerdev" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/xxninex" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://soulcrancerdev.vercel.app" target="_blank"><img alt="Personal Website"
+    <a href="https://xniiinx.vercel.app" target="_blank"><img alt="Personal Website"
         src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    <a href="https://medium.com/@soulcrancerdev" target="_blank"><img alt="Medium"
+    <a href="https://medium.com/@xniiinx" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.youtube.com/@xniiinx" target="_blank"><img alt="YouTube"
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
