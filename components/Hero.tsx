@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react'
 import styles from './Hero.module.css'
 import { StaticImageData } from 'next/image'
 import agentipyImg from '@/assets/img/agentipy.png'
-import luckImg from '@/assets/img/luck.png'
+import childbookAIImg from '@/assets/img/childbookAI.png'
 import snakeImg from '@/assets/img/snake.png'
 import sintraImg from '@/assets/img/sintra.png';
 
@@ -51,9 +51,9 @@ const backgroundImages: BackgroundImage[] = [
     side: 'right'
   },
   {
-    image: luckImg,
-    alt: 'Luck',
-    category: 'Casino',
+    image: childbookAIImg,
+    alt: 'Child Book AI',
+    category: 'Fullstack AI',
     position: { left: '0%', top: '50%' },
     rotation: 0,
     side: 'right'

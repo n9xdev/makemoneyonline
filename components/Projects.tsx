@@ -1,9 +1,4 @@
 'use client'
-import casinoImg from "@/assets/img/casino.png";
-import casinoImg2 from "@/assets/img/casino2.png";
-import casinoImg3 from "@/assets/img/casino3.png";
-import casinoImg4 from "@/assets/img/casino4.png";
-import casinoImg5 from "@/assets/img/casino5.png";
 import snakeImg from "@/assets/img/snake.png";
 import snakeImg2 from "@/assets/img/snake2.png";
 import snakeImg3 from "@/assets/img/snake3.png";
@@ -14,11 +9,6 @@ import btImg2 from "@/assets/img/bt2.png";
 import btImg3 from "@/assets/img/bt3.png";
 import btImg4 from "@/assets/img/bt4.png";
 import btImg5 from "@/assets/img/bt5.png";
-import luckImg from "@/assets/img/luck.png";
-import luckImg2 from "@/assets/img/luck2.png";
-import luckImg3 from "@/assets/img/luck3.png";
-import luckImg4 from "@/assets/img/luck4.png";
-import luckImg5 from "@/assets/img/luck5.png";
 import sintra from "@/assets/img/sintra.png";
 import sintra2 from "@/assets/img/sintra2.png";
 import sintra3 from "@/assets/img/sintra3.png";
@@ -59,7 +49,71 @@ import onyxImg2 from "@/assets/img/onyx2.png";
 import onyxImg3 from "@/assets/img/onyx3.png";
 import onyxImg4 from "@/assets/img/onyx4.png";
 import onyxImg5 from "@/assets/img/onyx5.png";
-// or: ../assets/projects/casino.png
+import childbookAIImg from "@/assets/img/childbookAI.png";
+import childbookAIImg2 from "@/assets/img/childbookAI2.png";
+import childbookAIImg3 from "@/assets/img/childbookAI3.png";
+import childbookAIImg4 from "@/assets/img/childbookAI4.png";
+import childbookAIImg5 from "@/assets/img/childbookAI5.png";
+import origamiImg from "@/assets/img/Origami.png";
+import origamiImg2 from "@/assets/img/Origami2.png";
+import origamiImg3 from "@/assets/img/Origami3.png";
+import origamiImg4 from "@/assets/img/Origami4.png";
+import origamiImg5 from "@/assets/img/Origami5.png";
+import toshibetImg from "@/assets/img/toshibet.png";
+import toshibetImg2 from "@/assets/img/toshibet2.png";
+import toshibetImg3 from "@/assets/img/toshibet3.png";
+import toshibetImg4 from "@/assets/img/toshibet4.png";
+import toshibetImg5 from "@/assets/img/toshibet5.png";
+import sweepslotsImg from "@/assets/img/sweepslots.png";
+import sweepslotsImg2 from "@/assets/img/sweepslots2.png";
+import sweepslotsImg3 from "@/assets/img/sweepslots3.png";
+import sweepslotsImg4 from "@/assets/img/sweepslots4.png";
+import sweepslotsImg5 from "@/assets/img/sweepslots5.png";
+import oxfxImg from "@/assets/img/oxfx.png";
+import oxfxImg2 from "@/assets/img/oxfx2.png";
+import oxfxImg3 from "@/assets/img/oxfx3.png";
+import oxfxImg4 from "@/assets/img/oxfx4.png";
+import oxfxImg5 from "@/assets/img/oxfx5.png";
+import tapalyticsImg from "@/assets/img/tapalytics.png";
+import tapalyticsImg2 from "@/assets/img/tapalytics2.png";
+import tapalyticsImg3 from "@/assets/img/tapalytics3.png";
+import tapalyticsImg4 from "@/assets/img/tapalytics4.png";
+import tapalyticsImg5 from "@/assets/img/tapalytics5.png";
+import crittersquestImg from "@/assets/img/crittersquest.png";
+import crittersquestImg2 from "@/assets/img/crittersquest2.png";
+import crittersquestImg3 from "@/assets/img/crittersquest3.png";
+import crittersquestImg4 from "@/assets/img/crittersquest4.png";
+import crittersquestImg5 from "@/assets/img/crittersquest5.png";
+import nutmarketImg from "@/assets/img/nutmarket.png";
+import nutmarketImg2 from "@/assets/img/nutmarket2.png";
+import nutmarketImg3 from "@/assets/img/nutmarket3.png";
+import nutmarketImg4 from "@/assets/img/nutmarket4.png";
+import nutmarketImg5 from "@/assets/img/nutmarket5.png";
+import raposacoffeeImg from "@/assets/img/raposacoffee.png";
+import raposacoffeeImg2 from "@/assets/img/raposacoffee2.png";
+import raposacoffeeImg3 from "@/assets/img/raposacoffee3.png";
+import raposacoffeeImg4 from "@/assets/img/raposacoffee4.png";
+import raposacoffeeImg5 from "@/assets/img/raposacoffee5.png";
+import unboundgamesImg from "@/assets/img/unboundgames.png";
+import unboundgamesImg2 from "@/assets/img/unboundgames2.png";
+import unboundgamesImg3 from "@/assets/img/unboundgames3.png";
+import unboundgamesImg4 from "@/assets/img/unboundgames4.png";
+import unboundgamesImg5 from "@/assets/img/unboundgames5.png";
+import whitelistclutchImg from "@/assets/img/whitelistclutch.png";
+import whitelistclutchImg2 from "@/assets/img/whitelistclutch2.png";
+import whitelistclutchImg3 from "@/assets/img/whitelistclutch3.png";
+import whitelistclutchImg4 from "@/assets/img/whitelistclutch4.png";
+import whitelistclutchImg5 from "@/assets/img/whitelistclutch5.png";
+import monstrodefiImg from "@/assets/img/monstrodefi.png";
+import monstrodefiImg2 from "@/assets/img/monstrodefi2.png";
+import monstrodefiImg3 from "@/assets/img/monstrodefi3.png";
+import monstrodefiImg4 from "@/assets/img/monstrodefi4.png";
+import monstrodefiImg5 from "@/assets/img/monstrodefi5.png";
+import apestoreImg from "@/assets/img/apestore.png";
+import apestoreImg2 from "@/assets/img/apestore2.png";
+import apestoreImg3 from "@/assets/img/apestore3.png";
+import apestoreImg4 from "@/assets/img/apestore4.png";
+import apestoreImg5 from "@/assets/img/apestore5.png";
 
 import { useEffect, useRef, useState } from 'react'
 import styles from './Projects.module.css'
@@ -113,24 +167,144 @@ const projects: Project[] = [
     ]
   },
   {
-    images: [casinoImg, casinoImg2, casinoImg3, casinoImg4, casinoImg5],
+    images: [origamiImg, origamiImg2, origamiImg3, origamiImg4, origamiImg5],
     badge: 'Blockchain',
-    title: 'GGsol Game',
-    description: 'Successful casino game development blends regulatory compliance, advanced security, and seamless performance to create trusted, engaging gameplay.',
-    link: "https://ggsol.io/",
-    tech: ['React', 'TypeScript', 'solana', 'Node.js'],
+    title: 'Origami',
+    description: 'White-label provably fair instant games for online casinos — ECVRF cryptography, configurable RTP, autobet, multi-language support, and continuous delivery of new titles.',
+    link: "https://betorigami.com/",
+    tech: ['TypeScript', 'React', 'Node.js', 'Web3'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
     ]
   },
   {
-    images: [luckImg, luckImg2, luckImg3, luckImg4, luckImg5],
+    images: [toshibetImg, toshibetImg2, toshibetImg3, toshibetImg4, toshibetImg5],
     badge: 'Blockchain',
-    title: 'Luck Game',
-    description: 'Casino game development demands secure, compliant, and high-performance systems that deliver fair play and engaging user experiences.',
-    link: "https://luck.io/",
-    tech: ['TypeScript', 'React vite', 'Node.js', 'mongodb'],
+    title: 'Toshi Bet',
+    description: 'Bitcoin casino platform with crypto games — secure, high-performance gameplay with seamless wallet integration and provably fair mechanics.',
+    link: "https://toshi.bet/",
+    tech: ['React', 'TypeScript', 'BTC', 'Web3'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [sweepslotsImg, sweepslotsImg2, sweepslotsImg3, sweepslotsImg4, sweepslotsImg5],
+    badge: 'Blockchain',
+    title: 'Sweep Slots',
+    description: 'Online casino-style sweepstakes game platform with engaging slot mechanics, secure backend, and scalable player experience.',
+    link: "https://www.sweepslots.com/",
+    tech: ['PHP', 'MySQL', 'React', 'Node.js'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [oxfxImg, oxfxImg2, oxfxImg3, oxfxImg4, oxfxImg5],
+    badge: 'Blockchain',
+    title: 'OXFX',
+    description: 'Centralized exchange platform with full trading infrastructure — order matching, wallet management, and real-time market data across multiple asset pairs.',
+    link: "https://oxfx.com/",
+    tech: ['TypeScript', 'Node.js', 'React', 'evm'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [tapalyticsImg, tapalyticsImg2, tapalyticsImg3, tapalyticsImg4, tapalyticsImg5],
+    badge: 'Blockchain',
+    title: 'Tapalytics',
+    description: 'On-chain analytics dashboard for real-time token and wallet tracking — actionable insights, PnL monitoring, and portfolio analytics.',
+    link: "https://www.tapalytics.xyz/",
+    tech: ['React', 'TypeScript', 'Node.js', 'solana'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [crittersquestImg, crittersquestImg2, crittersquestImg3, crittersquestImg4, crittersquestImg5],
+    badge: 'Blockchain',
+    title: 'Critters Quest',
+    description: 'Developed the full frontend + staking mechanics, $QUEST token rewards, daily spins, leaderboards, and PFP generator with seamless on-chain integration.',
+    link: "https://critters.quest/",
+    tech: ['React', 'TypeScript', 'solana', 'Tailwind'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [nutmarketImg, nutmarketImg2, nutmarketImg3, nutmarketImg4, nutmarketImg5],
+    badge: 'Blockchain',
+    title: 'Nut Market',
+    description: 'Built the complete Next.js frontend (heavily customized MagicEden fork) with spin & auction games, secure trading, and enhanced user engagement on Solana.',
+    link: "https://nut.market/",
+    tech: ['Next.js', 'solana', 'TypeScript', 'Web3'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [apestoreImg, apestoreImg2, apestoreImg3, apestoreImg4, apestoreImg5],
+    badge: 'Blockchain',
+    title: 'Ape Store',
+    description: 'Designed and implemented a complete pump.fun-style bonding curve system — TokenFactory, curve engine, referrer router, real-time quotes, pause controls, and graduation to Uniswap-style AMM.',
+    link: "https://ape.store/",
+    tech: ['Solidity', 'base', 'TypeScript', 'Web3'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [monstrodefiImg, monstrodefiImg2, monstrodefiImg3, monstrodefiImg4, monstrodefiImg5],
+    badge: 'Blockchain',
+    title: 'Monstro DeFi',
+    description: 'Developed and deployed core Solidity smart contracts for a gamified DeFi ecosystem — tokenized characters, staking pools, referral mechanics, and yield generation with secure low-gas architecture.',
+    link: "https://monstrodefi.com/",
+    tech: ['Solidity', 'base', 'TypeScript', 'evm'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [whitelistclutchImg, whitelistclutchImg2, whitelistclutchImg3, whitelistclutchImg4, whitelistclutchImg5],
+    badge: 'Blockchain',
+    title: 'Clutch Whitelist',
+    description: 'Shipped the complete production app (Next.js 15 + TypeScript) — wallet ranking engine (0–10), streaming CSV export, $K9 payment flow with Uniswap-fork router, and multi-chain support.',
+    link: "https://whitelist.clutch.market/",
+    tech: ['Next.js', 'TypeScript', 'evm', 'Web3'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [unboundgamesImg, unboundgamesImg2, unboundgamesImg3, unboundgamesImg4, unboundgamesImg5],
+    badge: 'Blockchain',
+    title: 'Fighters Unbound',
+    description: 'Designed and shipped the entire AI NFT evolution platform — LangGraph + ChromaDB + Ollama agent system, Strava-powered NFT evolution, phased minting contracts, and full frontend/backend for 5200 dynamic NFTs.',
+    link: "https://www.unbound.games/",
+    tech: ['Next.js', 'Solidity', 'AI', 'python', 'evm'],
+    stats: [
+      { icon: 'fas fa-code', value: '15K' },
+      { icon: 'fas fa-users', value: '5K+' }
+    ]
+  },
+  {
+    images: [raposacoffeeImg, raposacoffeeImg2, raposacoffeeImg3, raposacoffeeImg4, raposacoffeeImg5],
+    badge: 'Blockchain',
+    title: 'Kups NFT Staking',
+    description: 'Solana NFT staking platform with trait set bonuses, missions, airdrops, leaderboards, eternal staking, and secure 2FA-protected claim flows.',
+    link: "https://stake.raposacoffee.com/",
+    tech: ['React', 'TypeScript', 'solana', 'Anchor'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -155,6 +329,18 @@ const projects: Project[] = [
     description: 'AI agent templates are designed to automate social media, DMs and engagement. ',
     link: "https://www.ocoya.com/",
     tech: ['Next.js', 'websocket', 'mongodb', 'python'],
+    stats: [
+      { icon: 'fas fa-download', value: '50K+' },
+      { icon: 'fas fa-heart', value: '95%' }
+    ]
+  },
+  {
+    images: [childbookAIImg, childbookAIImg2, childbookAIImg3, childbookAIImg4, childbookAIImg5],
+    badge: 'Fullstack AI',
+    title: 'Child Book AI',
+    description: 'AI-powered personalized children\'s book platform — consistent character generation from photos, multilingual stories, illustrator tools, text-to-speech, and print-ready PDF export.',
+    link: "https://www.childbook.ai/",
+    tech: ['React', 'python', 'OpenAI', 'NLP', 'AI'],
     stats: [
       { icon: 'fas fa-download', value: '50K+' },
       { icon: 'fas fa-heart', value: '95%' }
