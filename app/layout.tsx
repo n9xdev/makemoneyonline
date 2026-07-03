@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'GenAI DeFi Engineering',
+  title: 'Senior Blockchain Engineer Web3 Game Architect',
   description: 'The sky has no limits. Why limit yourself',
   icons: {
     icon: '/logo.ico',

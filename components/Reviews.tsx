@@ -73,8 +73,8 @@ const reviews: Review[] = [
     company: 'Web3 Analytics',
     content: 'The Web2 and Web3 data integration while preserving user privacy is brilliant. It completely transformed how we handle analytics and user data.',
     rating: 5,
-    link: 'https://t.me/novaeeth',
-    telegramLink: 'https://t.me/novaeeth'
+    link: '',
+    telegramLink: ''
   }
 ]
 
