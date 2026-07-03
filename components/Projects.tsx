@@ -148,7 +148,7 @@ const projects: Project[] = [
     title: 'AgentiPy',
     description: 'AgentiPy is an open-source Python framework that enables AI agents to seamlessly perform on-chain actions on Solana and Base, bringing blockchain power.',
     link: "https://agentipy.fun/",
-    tech: ['python', 'solana', 'openai', 'LLM', 'node'],
+    tech: ['python', 'Solana', 'openai', 'LLM', 'node'],
     stats: [
       { icon: 'fas fa-download', value: '50K+' },
       { icon: 'fas fa-heart', value: '95%' }
@@ -160,7 +160,7 @@ const projects: Project[] = [
     title: 'Slither Game',
     description: 'Slither game development requires high-performance real-time systems, scalable multiplayer architecture to deliver smooth, addictive gameplay.',
     link: "https://pvplabs.xyz/",
-    tech: [ 'node', 'mongodb', 'solana', 'TypeScript'],
+    tech: [ 'node', 'mongodb', 'Solana', 'TypeScript'],
     stats: [
       { icon: 'fas fa-download', value: '50K+' },
       { icon: 'fas fa-heart', value: '95%' }
@@ -172,7 +172,7 @@ const projects: Project[] = [
     title: 'Origami',
     description: 'White-label provably fair instant games for online casinos — ECVRF cryptography, configurable RTP, autobet, multi-language support, and continuous delivery of new titles.',
     link: "https://betorigami.com/",
-    tech: ['TypeScript', 'React', 'Node.js', 'Web3'],
+    tech: ['TypeScript', 'React', 'Web2', 'Casino'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -184,7 +184,7 @@ const projects: Project[] = [
     title: 'Toshi Bet',
     description: 'Bitcoin casino platform with crypto games — secure, high-performance gameplay with seamless wallet integration and provably fair mechanics.',
     link: "https://toshi.bet/",
-    tech: ['React', 'TypeScript', 'BTC', 'Web3'],
+    tech: ['React', 'Bitcoin', 'Web3', 'Casino'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -196,7 +196,7 @@ const projects: Project[] = [
     title: 'Sweep Slots',
     description: 'Online casino-style sweepstakes game platform with engaging slot mechanics, secure backend, and scalable player experience.',
     link: "https://www.sweepslots.com/",
-    tech: ['PHP', 'MySQL', 'React', 'Node.js'],
+    tech: ['React', 'Web2', 'Casino', 'Games'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -208,7 +208,7 @@ const projects: Project[] = [
     title: 'OXFX',
     description: 'Centralized exchange platform with full trading infrastructure — order matching, wallet management, and real-time market data across multiple asset pairs.',
     link: "https://oxfx.com/",
-    tech: ['TypeScript', 'Node.js', 'React', 'evm'],
+    tech: ['TypeScript', 'Node.js', 'Web2', 'CEX'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -220,7 +220,7 @@ const projects: Project[] = [
     title: 'Tapalytics',
     description: 'On-chain analytics dashboard for real-time token and wallet tracking — actionable insights, PnL monitoring, and portfolio analytics.',
     link: "https://www.tapalytics.xyz/",
-    tech: ['React', 'TypeScript', 'Node.js', 'solana'],
+    tech: ['React', 'TypeScript', 'Node.js', 'Dogecoin'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -232,7 +232,7 @@ const projects: Project[] = [
     title: 'Critters Quest',
     description: 'Developed the full frontend + staking mechanics, $QUEST token rewards, daily spins, leaderboards, and PFP generator with seamless on-chain integration.',
     link: "https://critters.quest/",
-    tech: ['React', 'TypeScript', 'solana', 'Tailwind'],
+    tech: ['React', 'Games', 'Solana', 'NFTs'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -244,7 +244,7 @@ const projects: Project[] = [
     title: 'Nut Market',
     description: 'Built the complete Next.js frontend (heavily customized MagicEden fork) with spin & auction games, secure trading, and enhanced user engagement on Solana.',
     link: "https://nut.market/",
-    tech: ['Next.js', 'solana', 'TypeScript', 'Web3'],
+    tech: ['Next.js', 'Solana', 'TypeScript', 'Web3'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -304,7 +304,7 @@ const projects: Project[] = [
     title: 'Kups NFT Staking',
     description: 'Solana NFT staking platform with trait set bonuses, missions, airdrops, leaderboards, eternal staking, and secure 2FA-protected claim flows.',
     link: "https://stake.raposacoffee.com/",
-    tech: ['React', 'TypeScript', 'solana', 'Anchor'],
+    tech: ['React', 'TypeScript', 'Solana', 'Anchor'],
     stats: [
       { icon: 'fas fa-code', value: '15K' },
       { icon: 'fas fa-users', value: '5K+' }
@@ -400,7 +400,7 @@ const projects: Project[] = [
     title: 'Memecoin Launchpad',
     description: "Memecoin Launchpad is a next-generation memecoin launchpad built for both Solana and EVM-compatible chains, designed to make launching tokens fast, fair, and fun. Anyone can create and deploy a memecoin in minutes with no coding required.",
     link: "https://agents.land/",
-    tech: ['Next.js', 'solana', 'mongodb', 'evm', 'Web3'],
+    tech: ['Next.js', 'Solana', 'mongodb', 'evm', 'Web3'],
     stats: [
       { icon: 'fas fa-download', value: '50K+' },
       { icon: 'fas fa-heart', value: '95%' }
@@ -415,7 +415,7 @@ const getTechIcon = (tech: string): string => {
   const techLower = tech.toLowerCase()
   const iconMap: Record<string, string> = {
     'python': 'fab fa-python',
-    'solana': 'fas fa-coins',
+    'Solana': 'fas fa-coins',
     'base': 'fas fa-layer-group',
     'openai': 'fas fa-brain',
     'llm': 'fas fa-brain',
