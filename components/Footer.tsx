@@ -21,12 +21,12 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <div className={styles.footerContact}>
-          <div className={styles.contactItem}>
+          {/* <div className={styles.contactItem}>
             <i className="fas fa-envelope"></i>
             <a href="mailto:misssilverbeauty0927@gmail.com" className={styles.contactLink}>
               misssilverbeauty0927@gmail.com
             </a>
-          </div>
+          </div> */}
           <div className={styles.contactItem}>
             <i className="fas fa-phone"></i>
             <a href="tel:+16085717937" className={styles.contactLink}>
