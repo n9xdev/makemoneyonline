@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from 'react'
 import styles from './Reviews.module.css'
+import tapalyticsAvatar from '@/assets/img/tapalytics.jpg'
 
 interface Review {
   id: number
@@ -32,7 +33,7 @@ const reviews: Review[] = [
   },
   {
     id: 2,
-    avatar: 'https://ugc.production.linktr.ee/6b4850ab-ab8a-42f1-a34a-c838fc290535_1000098510.jpeg?io=true&size=avatar-v3_0',
+    avatar: tapalyticsAvatar.src,
     name: 'Tapalytics',
     role: 'Founder',
     company: 'tap_protocol on Bitcoin',
