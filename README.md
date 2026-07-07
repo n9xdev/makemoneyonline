@@ -17,8 +17,8 @@
     </a>
     <a href="https://t.me/xxninex" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://xniiinx.vercel.app" target="_blank"><img alt="Personal Website"
-        src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <!-- <a href="https://xniiinx.vercel.app" target="_blank"><img alt="Personal Website"
+        src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
     <a href="https://medium.com/@xniiinx" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.youtube.com/@xniiinx" target="_blank"><img alt="YouTube"
