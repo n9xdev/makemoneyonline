@@ -1,80 +1,82 @@
 <div align="center">
 
-# 🚀 $150k+ Profit Trader, Researcher & Developer
+# 🚀 $150k+ Polymarket Profit Trader & Production-Grade Builder  
+### AI Agents • GameFi • Provably Fair Casinos • DeFi
 
 *Crankin' out killer autonomous agents that stack crypto gains like a boss*
 
-#### 📞 Hit Me Up Here, Fam:
+#### 📞 Hit Me Up
 
-<p> 
-    <!-- <a href="mailto:dylandevera91928@gmail.com" target="_blank"><img alt="Email"
-        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-    <a href="https://x.com/intent/follow?screen_name=xxniiinxx" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://discord.com/users/1167076625582669927" target="_blank">
-        <img alt="Discord @xxninex"
-             src="https://img.shields.io/badge/Discord-%40xxninex-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://t.me/bosonax" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <!-- <a href="https://xniiinx.vercel.app" target="_blank"><img alt="Personal Website"
-        src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
-    <a href="https://medium.com/@bosonax" target="_blank"><img alt="Medium"
-        src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@bosonax" target="_blank"><img alt="YouTube"
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <!-- <a href="tel:+16085717937"><img alt="Phone"
-        src="https://img.shields.io/badge/Phone-+1%20(608)%20571-7937-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
-</p>
-</div>
-
----
-
-## 🎯 What I Crush
-
-**AI Agents:** Tradin' (Polymarket, Stocks, Crypto) • Social Media Hustle • Blockchain Watchdogs • Cash-Makin' Machines  
-**Blockchains:** SOL | ETH | BTC | SUI | ADA | BNB  
-**Vibe:** DeFi Dapps • MEV Hacks • On-Chain Intel • Auto-Pilot Systems
-
----
-
-## 🛠️ Epic Projects
-
-### 🤖 AI-Driven Fire
-
-- **Blockchain Sentry AI** (OpenClaw) - Auto on-chain surveillance, keepin' tabs like a pro
-- **Multi-Market Tradin' Bots** - Crushin' trades across platforms, no sweat
-- **Multi-Agent Social Media Automation** - Hybrid n8n + LangGraph setup for epic social game
-
-### ⛓️ Blockchain Bangers
-
-- **Full-Stack Tradin' Platform** (SOL + EVM) - Launch, Bundle, Snipe, Pump Volume
-- **Bubblemaps Bypass Beast** - Next-level wallet spyin'
-- **Tradin' Bot Arsenal** - Sniper, Bundler, Copy Tradin', Arb, Volume Booster, TG Bot
-- **Polymarket Tradin' Bots TG** - Copy tradin', arb, market maker, straight fire in Rust
-- **SOL Pumpfun SC Token2022** - Smart contracts, SDK, dev tools on fleek
-- **SOL Raydium/Pumpfun/Pumpswap Sniper & Copy Bot** - Jito, Shredstream powered, Rust beast
-- **KuCoin CEX Fork** - Forked that exchange like a champ
-- **Blockchain AI Agent Highlights** - Rust eng on SOL, BTC (Rune, BRC-20, OP_CAT, Doge, Ordinal, Fractal), ETH SC dev
-
----
-
-## 💡 Current Grind
-
-```typescript
-Droppin' cash-flowin' AI agents mixin' blockchain backbone with smart AF decision-makin'
-```
-
----
-
-<div align="center">
-
-⚽ Baller on the Pitch • 🤝 Down to Collab • 🧪 Forever Levelin' Up
-
-### Let's Drop Somethin' Game-Changin' 🚀
-
-**Soul Cr@ncr | GenAI DeFi Engineer | Buildin' Non-Stop**  
-**Motto: Sky's the limit? Nah, smash thru it. Turn ideas into reality.**  
-**GitHub Dev Program Member | 2K+ Followers | Pull Shark x3 | Starstruck x2**
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/follow?screen_name=xxniiinxx)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bosonax)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bosonax)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bosonax)
 
 </div>
+
+---
+
+I design and ship complete production systems — AI agents, full-stack applications, smart contracts, real-time GameFi, provably fair casinos, and DeFi platforms — across **Solana**, **Base**, **EVM chains**, and hybrid Web2/Web3 environments.  
+Fast, secure, and built to last.
+
+**$150k+ Profit Trader, Researcher & Developer** on [Polymarket](https://polymarket.com/@bosona)
+
+
+---
+
+## 🔥 Recent Portfolio Highlights
+
+- **AgentiPy** — Open-source Python framework that enables AI agents to execute real on-chain actions seamlessly on Solana and Base.
+
+  <img src="./assets/img/agentipy.png" alt="AgentiPy"/>
+- **Slither** — High-performance real-time multiplayer GameFi architecture with scalable backend.
+
+  <img src="./assets/img/snake.png" alt="Slither"/>
+- **Origami** — White-label provably fair instant casino games featuring ECVRF cryptography, configurable RTP, autobet, and multi-language support.
+
+  <img src="./assets/img/Origami.png" alt="AgentiPy"/>
+- **Ape Store** — Next-generation Pump.fun-style bonding curve launchpad on Base & EVM with TokenFactory, curve engine, referrer system, and seamless AMM graduation path.
+
+  <img src="./assets/img/apestore.png" alt="Ape Store"/>
+- **Fighters Unbound** — AI-powered dynamic NFT evolution platform (LangGraph + ChromaDB + Ollama agents + on-chain Strava integration). Full frontend, backend, and phased minting for 5,200+ evolving NFTs.
+
+  <img src="./assets/img/unboundgames.png" alt="Fighters Unbound"/>
+- **Toshi Bet & SweepSlots** — Secure Bitcoin casino and sweepstakes platforms with wallet integration and provably fair mechanics.
+
+  <img src="./assets/img/toshibet.png" alt="Toshi Bet & SweepSlots"/>
+- **AI Media Manager** — Multi-agent AI system that researches topics, generates brand-consistent content & images, schedules posts, and analyzes performance end-to-end.
+
+  <img src="./assets/img/sintra.png" alt="AI Media Manager"/>
+
+**Plus** production systems in DeFi (Monstro), NFT staking (Kups), memecoin launchpads, advanced whitelist engines (Clutch), and specialized AI tools (Child Book AI, ChatDOC, StoryFile).
+
+---
+
+## 💡 My Edge
+
+I deliver deeply considered, expertly executed solutions that combine innovation with rock-solid reliability.  
+Clients consistently highlight clean architecture, clear communication, on-time delivery, and valuable technical suggestions that go beyond the brief.
+
+---
+
+## 🗣️ What Founders & CTOs Say
+
+> **Outstanding developer with strong technical skills.** Delivered the project on time and exceeded our expectations in both quality and communication.  
+> — **BERTUG** (Co-founder)
+
+> **Excellent problem-solving skills.** The developer handled complex features smoothly and provided valuable suggestions throughout the project.  
+> — **TAPALYTICS** (Founder)
+
+> **Our Pump.fun fork MVP launched on schedule with zero rework.** Clean architecture, clear documentation — outstanding work from start to finish.  
+> — **TRADERGIRLSUKI** (Founder)
+
+---
+
+## 🤝 Let's Build
+
+If you’re a founder or team building serious products on **Solana**, **Base**, or any **EVM chain** — especially in AI agents, gaming, casinos, or DeFi — and you want someone who actually ships production-grade work (not just PoCs), let’s talk.
+
+**Full portfolio** (projects, live links & detailed breakdowns): [https://n9x.us](https://n9x.us)  
+**Polymarket profile**: [https://polymarket.com/@bosona](https://polymarket.com/@bosona)
+
+**DMs are open.**
