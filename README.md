@@ -21,6 +21,7 @@ Fast, secure, and built to last.
 
 **$150k+ Profit Trader, Researcher & Developer** on [Polymarket](https://polymarket.com/@bosona)
 
+https://github.com/user-attachments/assets/cd014244-b944-4bcf-a572-efdb1a828951
 
 ---
 
