@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 $150k+ Polymarket Trader & Production-Grade Builder  
+# 🚀 $150k+ Polymarket Trader & Developer  
 ### AI Agents • GameFi • Provably Fair Casinos • DeFi
 
 *Crankin' out killer autonomous agents that stack crypto gains like a boss*
