@@ -189,7 +189,7 @@ export default function Hero() {
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.80L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
               </svg>
             </a>
-            <a href="https://t.me/adelanx" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="Telegram">
+            <a href="https://t.me/bosonax" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="Telegram">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21.5 2L2 12.5l7 1L19 8l-8.5 7.5 1 7L21.5 2z"/>
               </svg>
@@ -201,7 +201,7 @@ export default function Hero() {
                 <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
               </svg>
             </a> */}
-            <a href="https://youtube.com/@adelanx" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="YouTube">
+            <a href="https://youtube.com/@bosonax" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="YouTube">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"/>
                 <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"/>

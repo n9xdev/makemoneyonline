@@ -15,13 +15,13 @@
         <img alt="Discord @xxninex"
              src="https://img.shields.io/badge/Discord-%40xxninex-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="https://t.me/adelanx" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/bosonax" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <!-- <a href="https://xniiinx.vercel.app" target="_blank"><img alt="Personal Website"
         src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
-    <a href="https://medium.com/@adelanx" target="_blank"><img alt="Medium"
+    <a href="https://medium.com/@bosonax" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@adelanx" target="_blank"><img alt="YouTube"
+    <a href="https://www.youtube.com/@bosonax" target="_blank"><img alt="YouTube"
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <!-- <a href="tel:+16085717937"><img alt="Phone"
         src="https://img.shields.io/badge/Phone-+1%20(608)%20571-7937-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
