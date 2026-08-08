@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Senior Blockchain Engineer & Web3 Game Architect
+# 🚀 $150k+ Profit Trader, Researcher & Developer
 
 *Crankin' out killer autonomous agents that stack crypto gains like a boss*
 

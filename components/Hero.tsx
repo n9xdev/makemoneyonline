@@ -173,8 +173,8 @@ export default function Hero() {
       <canvas ref={canvasRef} id="canvas" className={styles.canvas}></canvas>
       
       <div className={styles.heroContent}>
-        <h1 className={styles.heroTitle}>Senior Blockchain Engineer Web3 Game Architect</h1>
-        <h2 className={styles.heroSubtitle}>The sky has no limits. Why limit yourself</h2>
+        <h1 className={styles.heroTitle}>$150k+ Profit Trader, Researcher & Developer</h1>
+        <h2 className={styles.heroSubtitle}>AI Agents, GameFi, Provably Fair Casinos</h2>
         <p className={styles.heroDescription}>
         {/* Building Polymarket trading bots  | Ex-@RuneGuardians | OSS @AgentiPy | Casino Game Architect | Rust • Python • Smart Contracts | #BTC • #Solana • #Web3 */}
 
