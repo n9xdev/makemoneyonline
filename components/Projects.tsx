@@ -1,4 +1,9 @@
 'use client'
+import polybotImg from "@/assets/img/polybot.png";
+import polybotImg2 from "@/assets/img/polybot2.png";
+import polybotImg3 from "@/assets/img/polybot3.png";
+import polybotImg4 from "@/assets/img/polybot4.png";
+import polybotImg5 from "@/assets/img/polybot5.png";
 import snakeImg from "@/assets/img/snake.png";
 import snakeImg2 from "@/assets/img/snake2.png";
 import snakeImg3 from "@/assets/img/snake3.png";
@@ -130,6 +135,18 @@ interface Project {
 }
 
 const projects: Project[] = [
+  {
+    images: [polybotImg, polybotImg2, polybotImg3, polybotImg4, polybotImg5],
+    badge: 'Blockchain',
+    title: 'Polymarket Bot',
+    description: '+$150k Profits With Polymarket Trading Bot (Crypto Markets)',
+    link: "https://polymarket.com/@bosona",
+    tech: ['Rust', 'AI', 'Predictive Models', 'Polygon', 'Web3'],
+    stats: [
+      { icon: 'fas fa-download', value: '50K+' },
+      { icon: 'fas fa-heart', value: '95%' }
+    ]
+  },
   {
     images: [sintra, sintra2, sintra3, sintra4, sintra5],
     badge: 'AI Agent',
